@@ -1,0 +1,18 @@
+#box1{
+
+    background-color: red;
+    height: 100px;
+}
+#box2{
+
+    background-color:yellowgreen;
+    height: 100px;
+}
+#box3{
+
+    background-color: yellow;
+    height: 100px;
+}
+#pic{
+position: fixed;
+}
